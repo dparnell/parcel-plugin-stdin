@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-stdin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Kill parcel when stdin closes",
   "main": "index.js",
   "scripts": {
